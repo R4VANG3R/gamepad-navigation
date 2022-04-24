@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gamepad-navigation/static/css/main.c6c94608.css",
+    "main.js": "/gamepad-navigation/static/js/main.d1eeca10.js",
+    "index.html": "/gamepad-navigation/index.html",
+    "main.c6c94608.css.map": "/gamepad-navigation/static/css/main.c6c94608.css.map",
+    "main.d1eeca10.js.map": "/gamepad-navigation/static/js/main.d1eeca10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6c94608.css",
+    "static/js/main.d1eeca10.js"
+  ]
+}
